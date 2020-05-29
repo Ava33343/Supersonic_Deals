@@ -1,7 +1,3 @@
-# Supersonic_Contracts_In_A_Different_Dimension
-Make A deal on Martian Market Blockchain!
-
-
 # Unit 22: We're going to Mars!
 
 ![mars](https://image.shutterstock.com/image-photo/silhouette-astronaut-standing-on-rocky-600w-1049625047.jpg)
