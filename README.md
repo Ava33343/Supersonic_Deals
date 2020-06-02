@@ -31,7 +31,7 @@ Modified from:
 Webpage on Supersonic Deals
 </summary>
 
-![mars_webpage](Mars/images/mars_webpage.png)
+![mars_webpage](Mars/images/super_sonic_webpage.png)
 
 </details>
 
