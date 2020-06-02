@@ -36,7 +36,7 @@ Webpage on Supersonic Deals
 </details>
 
 <details><summary>
-Step 1: Click on **Settings** on Github Repository on _Supersonic_Deals_.
+Step 1: Click on Settings on Github Repository on Supersonic_Deals.
 </summary>
 
 ![github_repo](Mars/images/github_repo.png)
@@ -44,7 +44,7 @@ Step 1: Click on **Settings** on Github Repository on _Supersonic_Deals_.
 </details>
 
 <details><summary>
-Step 2: View on **Settings** tab:
+Step 2: View on Settings tab:
 </summary>
 
 ![github_settings](Mars/images/github_settings.png)
@@ -52,7 +52,7 @@ Step 2: View on **Settings** tab:
 </details>
 
 <details><summary>
-Step 3: Scroll down to **GitHub Pages** section
+Step 3: Scroll down to GitHub Pages section
 </summary>
 
 * Source: Select _master branch_ 
