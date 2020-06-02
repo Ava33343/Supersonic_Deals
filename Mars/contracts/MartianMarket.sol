@@ -1,11 +1,10 @@
-pragma solidity ^0.5.0;
+pragma solidity >=0.4.21 <0.6.0;
 
-import '../node_modules/openzeppelin-solidity/contracts/token/ERC721/ERC721Full.sol';
-import '../node_modules/openzeppelin-solidity/contracts/ownership/Ownable.sol';
-/* OR
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/token/ERC721/ERC721Full.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/ownership/Ownable.sol";
-*/
+/* OR */
+//import '../node_modules/openzeppelin-solidity/contracts/token/ERC721/ERC721Full.sol';
+//import '../node_modules/openzeppelin-solidity/contracts/ownership/Ownable.sol';
 import './MartianAuction.sol';
 
 //https://columbia.bootcampcontent.com/columbia-bootcamp/CU-NYC-FIN-PT-12-2019-U-C/blob/master/22-DeFi/3/Activities/06-Stu_Building_Martian_Market/Solved/MartianMarket.sol

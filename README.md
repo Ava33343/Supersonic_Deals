@@ -23,7 +23,44 @@ Modified from:
 
 #### C. [Migrations](Mars/contracts/Migrations.sol)
 
-### Deploying the Market
+### Deploying the Initiatives
+
+### _**[Supersonic Deals Web Page on Github](https://ava33343.github.io/Supersonic_Deals/)**_
+
+<details><summary>
+Webpage on Supersonic Deals
+</summary>
+
+![mars_webpage](Mars/images/mars_webpage.png)
+
+</details>
+
+<details><summary>
+Step 1: Click on **Settings** on Github Repository on _Supersonic_Deals_.
+</summary>
+
+![github_repo](Mars/images/github_repo.png)
+
+</details>
+
+<details><summary>
+Step 2: View on **Settings** tab:
+</summary>
+
+![github_settings](Mars/images/github_settings.png)
+
+</details>
+
+<details><summary>
+Step 3: Scroll down to **GitHub Pages** section
+</summary>
+
+* Source: Select _master branch_ 
+* Theme Chooser: Modernist here (you may absolutely select any theme as you wish!)
+![github_pages](Mars/images/github_pages.png)
+
+</details>
+
 
 _To be continued..._
 
